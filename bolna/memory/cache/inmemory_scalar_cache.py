@@ -30,4 +30,3 @@ class InmemoryScalarCache(BaseCache):
             self.data_dict.clear()
         self.ttl_dict.clear()
     
-
